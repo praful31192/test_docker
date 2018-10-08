@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"test_docker/lib"
+	"github.com/praful31192/test_docker/lib"
 )
 
 func main() {
